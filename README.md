@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Augusto</h1>
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
-- 🌱 Atualmente estou no 6º da graduação em Engenharia de Software, procurando uma primeira oportunidade para experiencia na area!!
+- 🌱 Atualmente estou no 6º termo da graduação em Engenharia de Software, procurando uma primeira oportunidade para experiencia na area!!
 -  **Java , Banco de dados , Modelagem de dados , Php , Flutter , Dart**
 
 - 📫 Você me acha atraves do email **augusto290704@gmail.com**
